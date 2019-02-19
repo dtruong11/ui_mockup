@@ -4,11 +4,11 @@ For this exercise, you will be using your knowledge of HTML and Twitter Bootstra
 
 Fork/Clone the repo and make a pull request when done.
 
-![](1.png)
+![](./sketch1/1.png)
 
-![](2.png)
+![](./sketch2/2.png)
 
-![](3.png)
+![](./sketch3/3.png)
 
 # Bonus
 

@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  text-align: center;
+  padding: 10px 60px 10px 10px;
+  margin: 5%;
+}
+
+.links, .content {
+  display: flex;
+  flex-flow: column nowrap;
+}
+.links {
+  margin-right: 50px;
+}
+.links div {
+  border: 1px solid salmon;
+  padding: 2px 70px;
+  margin-bottom: 5px;
+}
+
+.item2 {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.img2 {
+  margin-left: 10px;
+}
